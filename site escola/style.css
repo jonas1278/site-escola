@@ -1,0 +1,11 @@
+header{
+    background-color: blue;
+    color: cornsilk;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin: 24px 0;
+}
+.cabeçalho-imagem{
+    width: 20%;
+}
