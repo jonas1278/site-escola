@@ -1,8 +1,8 @@
 .cabeçalho{
-    background-color: blue: cornsilk;
+    background-color: blue;
     color: #000;
     display: flex;
-    justify-items: center;
+    justify-content: space-around;
     align-items: center;
     margin: 24px 0;
 }
@@ -13,6 +13,4 @@
     display: inline-block;
     margin: 20%;
 }
-.escola-imagem{
-    
-}
+ 
