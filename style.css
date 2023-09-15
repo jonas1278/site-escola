@@ -1,5 +1,7 @@
-margin:
-padding:
+*{
+   margin: 0;
+   padding: 0;
+}
 .cabeçalho{
     background-color: blue;
     color: #000;
@@ -11,10 +13,7 @@ padding:
 .cabeçalho-imagem{
     width: 20%;
 }
-.cabeçalho-lista-item{
-    display: inline-block;
-    margin: 20%;
-}
+
  .cabeçalho-lista-item {
     display: inline-block;
     margin: 0% 16px;
@@ -35,4 +34,7 @@ padding:
  }
  .escola-titulo{
     padding: 24px;
+ }
+ .body{
+   font-family: 'Josefin Sans', sans-serif;
  }
